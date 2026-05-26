@@ -24,6 +24,6 @@ This project demonstrates core backend development concepts including Object-Ori
 
 
 
-## 🛠️ Prerequisites
+## Prerequisites
 * Python 3.x
 * `reportlab` library
