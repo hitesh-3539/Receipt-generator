@@ -19,6 +19,7 @@ This project demonstrates core backend development concepts including Object-Ori
 
 
 **Generated PDF Receipt:**
+
 <img width="568" height="763" alt="Screenshot 2026-05-26 at 4 15 57 PM" src="https://github.com/user-attachments/assets/5226ddbf-bb08-44c0-815a-972bbae5e817" />
 
 
